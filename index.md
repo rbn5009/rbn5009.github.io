@@ -27,7 +27,7 @@
 ---
 
 ### Papers, Presentations, and Publications
-
+- Noraas, R., Giering, M., Oshin O., Reddy, K., Rettberg, L., Somanath, N., Venkatesh, V. (2019, June) _Alpha-beta Titanium Microstructure Classification and Quantification using Convolutional Neural Networks._ Poster presentation at the 14th Titanium World Conference in Nantes, France. [Link](/pdf/sample_presentation.pdf)
 ---
  
  
