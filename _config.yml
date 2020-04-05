@@ -1,9 +1,8 @@
-title: Ryan Noraas # your name (or website title) here
+title: <div align="center">Ryan Noraas</div> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my online portfolio of data science projects.   
+description: > 
+  Hi, I'm Ryan Noraas. I work as a materials engineer and data scientist for a major jet engine manufacturing company. My primary work focus is on the development, implementation, and interpretation of deep learning computer vision algorithms for microstructure analysis.  
   <br><br>
-  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <br><br>
