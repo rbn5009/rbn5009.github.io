@@ -1,7 +1,7 @@
 ## MY PROJECTS
 ---
 
-### DEEP LEARNING / COMPUTER VISION
+### DEEP LEARNING / COMPUTER VISION (Industrial Applications)
 
 - [Microstructure Image Segmentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -14,8 +14,10 @@
 
 ### MACHINE LEARNING
 
-- [Q Learning for Financial Trading Strategies](http://example.com/)
-- [](http://example.com/)
+- [Q Learning for Financial Trading Strategies (Python)](http://example.com/)
+- [Reinforcement Learning Strategies to solve Frozen Lake and Taxi Problems (Python)](http://example.com/)
+- [Linear Regression and Model Asssement on Carseats Dataset using R]
+- [Text Analytics and Sentiment Analysis using R]
 
 ---
 
@@ -26,8 +28,17 @@
 - [Assessment of Patient Similarity using Graph Networks (Spark, Scala)]
 - [Epilectic Seizure and Mortality Prediction using MLP, CNN, and RNNs (Python)]
 - [Prediction of Chest X-ray Disease Labels using Deep Image Features (PySpark)]
+- [Graph Analysis of Bitcoin Trading Patterns using Databricks (Spark, Scala)]
+- [Analyzing bigram frequency in Google book's n-gram dataset using Pig on AWS]
+- [Analyzing a Large Graph using Hadoop on Microsoft Azure]
+- [Implementation of a Scalable Single-machine PageRank algorithm on 70M edge graph]
 
 ---
+
+### DATA VISUALIZATION
+ - [Force-directed graph networks using D3]
+ - [Custom Interactive Plotting Tools in Javascript]
+ - 
 
 ### BLOGS AND TUTORIALS
 
