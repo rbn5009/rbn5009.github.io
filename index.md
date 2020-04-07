@@ -49,7 +49,7 @@
 
 ### PRESENTATIONS, PROCEEDINGS, PAPERS, AND PATENTS
 
-- Noraas, R., Cernatescu, I., Levan, G., Ratliff, P. (2020, February) _Application of Machine Learning to Microstructure Quantification and Understanding._ Presentation at TMS 2020 Conference in San Diego, CA. [Link to Presentation](/pdf/Application of Machine Learning to Microstructure Quantification and Understanding - TMS 2020 - Final - Publicly Released.pdf)
+- Noraas, R., Cernatescu, I., Levan, G., Ratliff, P. (2020, February) _Application of Machine Learning to Microstructure Quantification and Understanding._ Presentation at TMS 2020 Conference in San Diego, CA. [Link to Presentation](/pdf/Application_of_Machine_Learning_to_Microstructure_Quantification_and_Understanding_TMS2020_Final_Public.pdf)
 
 - Noraas, R., Giering, M., Oshin O., Reddy, K., Rettberg, L., Somanath, N., Venkatesh, V. (2019, June) _Alpha-beta Titanium Microstructure Classification and Quantification using Convolutional Neural Networks._ Poster presented at the 14th Titanium World Conference in Nantes, France. [Link to Poster](/pdf/sample_presentation.pdf)
 
