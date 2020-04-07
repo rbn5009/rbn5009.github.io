@@ -51,7 +51,10 @@
 
 - Noraas, R., Cernatescu, I., Levan, G., Ratliff, P. (2020, February) _Application of Machine Learning to Microstructure Quantification and Understanding._ Presentation at TMS 2020 Conference in San Diego, CA. [Link to Presentation](/pdf/Application_of_Machine_Learning_to_Microstructure_Quantification_and_Understanding_TMS2020_Final_Public.pdf)
 
-- Noraas, R., Giering, M., Oshin O., Reddy, K., Rettberg, L., Somanath, N., Venkatesh, V. (2019, June) _Alpha-beta Titanium Microstructure Classification and Quantification using Convolutional Neural Networks._ Poster presented at the 14th Titanium World Conference in Nantes, France. [Link to Poster](/pdf/sample_presentation.pdf)
+- Noraas, R., Somanath, N., Giering, M., Oshin, O. (2020, Janurary) _Structural Material Property Tailoring of Dual Phase Titanium Alloy Microstructures using Deep Neural Networks._ Paper and Presentation at AIAA SciTech Conference in San Diego, CA. [Presentation](/pdf/AIAA_SCITECH2020_PUBLIC.pdf) [Paper](/pdf/AIAA2020_Final_10919.pdf)
+
+- Noraas, R., Giering, M., Oshin O., Reddy, K., Rettberg, L., Somanath, N., Venkatesh, V. (2019, June) _Alpha-beta Titanium Microstructure Classification and Quantification using Convolutional Neural Networks._ Poster presented at the 14th Titanium World Conference in Nantes, France. [Poster](/pdf/Ti2019_poster_public.pdf) [Paper](/pdf/Ti2019_paper_public.pdf)
+
 
 
 ---
